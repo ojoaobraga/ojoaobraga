@@ -9,7 +9,7 @@
 I'm João Braga, I'm 22, I live in São Paulo, Brazil and I'm improving myself in Java, code design and on my free time I like to play instruments like guitar, keyboard and play video games on PC.
 </br></br>
 
-## 🖥️ Technologies & Tools: 
+## 🖥️ Technologies & Tools 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -30,7 +30,7 @@ I'm João Braga, I'm 22, I live in São Paulo, Brazil and I'm improving myself i
 
 </br>
 
-### Feel free to stop here and rest before returning to your journey
+## ☕ Feel free to stop here and rest before returning to your journey
 <img width="70%" src="https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
