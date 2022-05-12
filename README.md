@@ -1,4 +1,4 @@
-# Hi There, welcome to my profile! 🤙🏻
+# Hi there, welcome to my profile! 🤙🏻
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <a href="https://www.linkedin.com/in/joao-victor-s-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/_meunomenaoejohn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </br>
-I'm João Braga, I'm improving myself in Java, code design and on my free time I like to play instruments like guitar, keyboard and play video games on PC.
+I'm João Braga, I'm 22, I live in São Paulo, Brazil and I'm improving myself in Java, code design and on my free time I like to play instruments like guitar, keyboard and play video games on PC.
 </br></br>
 
 ## 🖥️ Technologies & Tools: 
