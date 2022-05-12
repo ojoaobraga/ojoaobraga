@@ -21,11 +21,14 @@ I'm João Braga, I'm improving myself in Java, code design and on my free time I
 ## :octocat: GitHub Stats
 <p align="center">
 <a href="https://github.com/ojoaobraga">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ojoaobraga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobraga&layout=compact&langs_count=8&theme=algoliainclude_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojoaobraga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
 </a>
+<a href="https://github.com/ojoaobraga">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobraga&show_icons=true&line_height=22&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=3"/>
+</a>
+
 </p>
+
 </br>
 
 ### Feel free to stop here and rest before returning to your journey
