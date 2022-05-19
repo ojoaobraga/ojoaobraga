@@ -31,6 +31,6 @@ I'm João Braga, I'm 22, I live in São Paulo, Brazil and I'm improving myself i
 </br>
 
 ## ☕ Feel free to stop here and rest before returning to your journey
-<img width="70%" src="https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"/>
+<img width="72%" src="https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
