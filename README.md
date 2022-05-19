@@ -1,5 +1,5 @@
 # Hi there, welcome to my profile! 🤙🏻
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<img width="99%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <a href="https://www.linkedin.com/in/joao-victor-s-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joao.sbraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,4 +33,4 @@ I'm João Braga, I'm 22, I live in São Paulo, Brazil and I'm improving myself i
 ## ☕ Feel free to stop here and rest before returning to your journey
 <img width="72%" src="https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<img width="99%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
