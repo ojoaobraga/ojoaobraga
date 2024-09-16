@@ -6,14 +6,23 @@
 <a href="https://www.instagram.com/_meunomenaoejohn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </br>
-I'm João Braga, I'm 24, I live in São Paulo, Brazil and I'm improving myself in Java and C# with Microsoft Dynamics, code design and on my free time I like to play instruments like guitar, keyboard and play video games on PC.
+I'm João Braga, I'm 25, I live in São Paulo, Brazil and I'm improving myself in C#, Microsoft Dynamics focusing on Power Platform, code design and on my free time I like to play instruments like guitar, keyboard and play video games on PC.
 </br></br>
 
 ## 🖥️ Technologies & Tools 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
 </br>
 
@@ -23,7 +32,7 @@ I'm João Braga, I'm 24, I live in São Paulo, Brazil and I'm improving myself i
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ojoaobraga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
 </a>
 <a href="https://github.com/ojoaobraga">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobraga&show_icons=true&line_height=22&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=3"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoaobraga&show_icons=true&line_height=22&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=10"/>
 </a>
 
 </p>
